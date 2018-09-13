@@ -1,8 +1,5 @@
 ----
-Coffee Bean Paper
-09/13/2018
-Nadia Robson
-Tech Writing
+Coffee Bean Paper 09/13/2018 Nadia Robson Tech Writing
 ----
 # Coffee Bean Marketing Paper #
 People **love** coffee. Americans **love** coffee. College students **love** coffee. It is a part of many cultures and diets across the world. The World Atlas lists Europe, Brazil, and of course the United States as being the top coffee drinkers in the world. From all these countries, Megan Willet at Business Insider reported that 1.6 billion cups of coffee are drank every single day, which means that 2 million cups are consumed every five minutes. Willet also reports that it was a man named Omar who first discovered how to make coffee by boiling coffee beans in hot water. Coffee soon became popular in Africa and the Middle East (Willet). Allison Helmer from New York Serious Eats outlines the rise of the popularity of coffee, but says that at first coffee was not that popular. Tea was the drink of choice for early colonists. That was *until* the Boston Tea Party in 1773. The Coffee Exchange of New York was born in 1882 and transformed the coffee industry in the US. Helmer said that coffee grew after the exchange was established because it became “a beverage which could be accessible to those outside the wealthy class and still taste good”. The 1950’s saw even more consumption of coffee after the idea of a coffee break was invented. Starbucks, as well as many other coffee companies, were created in the 1970’s giving us the coffee culture that we have today (Helmer).
