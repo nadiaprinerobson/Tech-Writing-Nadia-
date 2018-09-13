@@ -1,5 +1,5 @@
 ----
-Cofee Bean Paper
+Coffee Bean Paper
 09/13/2018
 Nadia Robson
 Tech Writing
