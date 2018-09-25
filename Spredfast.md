@@ -30,4 +30,6 @@ Spredfast is an effective software tool that many large companies including Targ
 20. After closing, to make the item disappear you will need to dismiss it. 
 21. To dismiss the item, you wll click on the same three litte dots and this time choose dismiss. This will elimiante the item from your To-Do List. 
 ## Conclusion
-As the consumer and business realtionships move online, it is essential that businesses manage their online community to contuine to enagege with their customers. Spredfast is a tool that enables companies to monitr and directly interact with 
+As the consumer and business realtionships move online, it is essential that businesses manage their online community to contuine to enagege with their customers. Spredfast is a tool that enables companies to monitor and directly interact with their followers.The instructions above walk through how to open, label, act upon, and close an item through the Spredfast software. It also describes the different options within each step. With this guide, you will be able to handle the growing online community. 
+
+## FAQ
