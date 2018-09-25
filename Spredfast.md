@@ -25,4 +25,7 @@ Spredfast is an effective software tool that many large companies including Targ
 16. If you are responding with a comment, it is highly recomended that each company has a guidline book that includes legally approved responses. It is very important that each response is legally approved by the company so there is no chance that using a response from the book will land the business in legal trouble. In the guidelines you can have answers to common questions, comments, and requests. 
 17. If you are liking or sharing, you only need to click 'like' or 'share" and the software will automatically do that for you on the platform. To comment, you will click on "comment" where you will type your response and hit publish to make the comment public. 
 ## Closing 
+18. Once you finish opening, labeling, and responding to the item, you are able to close and dismiss it. 
+19. To close the item, you will once again need to click on the three little dots on the bottom of the item. The drop down will give you mutliple options, including close. Closing the item makes the user unable to make an changes to the item. 
+20. After closing, to make it disappear 
 
