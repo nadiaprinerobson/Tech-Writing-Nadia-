@@ -32,4 +32,8 @@ Spredfast is an effective software tool that many large companies including Targ
 ## Conclusion
 As the consumer and business realtionships move online, it is essential that businesses manage their online community to contuine to enagege with their customers. Spredfast is a tool that enables companies to monitor and directly interact with their followers.The instructions above walk through how to open, label, act upon, and close an item through the Spredfast software. It also describes the different options within each step. With this guide, you will be able to handle the growing online community. 
 
-## FAQ
+## Frequently Asked Questions
+What is an item?
+For the purpose of these instructions and using Spredfast, an item is anything that comes through Spredfast from the online community. An item can be a comment, share, tag, mention, or a direct message. 
+Can I manage multiple accounts on Spredfast?
+Yes, you can manage more than one account on Spredfast. It is easy to switch from one account to another using the top bar of the website. You can drop down to the different account and chose which one to manage. 
