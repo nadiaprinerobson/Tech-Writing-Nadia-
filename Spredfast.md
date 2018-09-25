@@ -27,5 +27,7 @@ Spredfast is an effective software tool that many large companies including Targ
 ## Closing 
 18. Once you finish opening, labeling, and responding to the item, you are able to close and dismiss it. 
 19. To close the item, you will once again need to click on the three little dots on the bottom of the item. The drop down will give you mutliple options, including close. Closing the item makes the user unable to make an changes to the item. 
-20. After closing, to make it disappear 
-
+20. After closing, to make the item disappear you will need to dismiss it. 
+21. To dismiss the item, you wll click on the same three litte dots and this time choose dismiss. This will elimiante the item from your To-Do List. 
+## Conclusion
+As the consumer and business realtionships move online, it is essential that businesses manage their online community to contuine to enageg with their customers. Spredfast is a tool that enables companies to monitr and directly interact with 
