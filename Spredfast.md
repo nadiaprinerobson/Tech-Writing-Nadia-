@@ -19,6 +19,6 @@ Spredfast is an effective software tool that many large companies including Targ
 13. If an item is determined to be actionable, this is where it gets fun. 
 14. Next to the three dots and label icon, there is a conversation bubble icon. Click on trhe icon and it will lead you to a drop down list with comment, like, share. 
 15. Choose with action you would like to initaite for the item. 
-16. If you are responding with a comment, it is highly recomended that each company has a guidline book that includes legally approved responses. It is very important that each response is legally approved by the company so there is no chance that using a response from the book will land the business in hot water. In the guidelines you can have answers to common questions, comments, and requests. 
+16. If you are responding with a comment, it is highly recomended that each company has a guidline book that includes legally approved responses. It is very important that each response is legally approved by the company so there is no chance that using a response from the book will land the business in legal trouble. In the guidelines you can have answers to common questions, comments, and requests. 
 If you are liking or sharing, you only need to click 'like' or 'share" and the software will automatically do that for you on the platform. To comment, you will click on "comment" where you will type your response and hit publish to make the comment public. 
 
