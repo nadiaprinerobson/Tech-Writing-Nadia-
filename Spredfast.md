@@ -16,7 +16,7 @@ Spredfast is an effective software tool that many large companies including Targ
 11.	The Actionable label is where you decide whether or not to respond to the item. Responding to comments can vary from liking, sharing, or commenting on the item. If an item needs to be addressed, you can mark it as actionable. Depending on what your company's strategy for managing social media communities, you could have many items that are actionable, or very few. 
 12. The Publisher label has users identifiy who publihsed the item. Monitoring who on the online community is posting certain content helps with further analytics. Examples of Publisher categories can be employees, influencers, trolls, or general followers. 
 ## Responding 
-13. If an item is determined to be actionable, this is where it get fun. 
+13. If an item is determined to be actionable, this is where it gets fun. 
 14. Next to the three dots and label icon, there is a conversation bubble icon. Click on trhe icon and it will lead you to a drop down list with comment, like, share. 
 15. Choose with action you would like to initaite for the item. 
 16. If you are responding with a comment, it is highly recomended that each company has a guidline book that includes legally approved responses. It is very important that each response is legally approved by the company so there is no chance that using a response from the book will land the business in hot water. In the guidelines you can have answers to common questions, comments, and requests. 
