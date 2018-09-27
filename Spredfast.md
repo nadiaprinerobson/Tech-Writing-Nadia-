@@ -32,8 +32,11 @@ As the consumer and business relationships move online, it is essential that bus
 
 ## Frequently Asked Questions
 What is an item?
+
 For the purpose of these instructions and using Spredfast, an item is anything that comes through Spredfast from the online community. An item can be a comment, share, tag, mention, or a direct message. 
 Can I manage multiple accounts on Spredfast?
-Yes, you can manage more than one account on Spredfast. It is easy to switch from one account to another using the top bar of the website. You can drop down to the different account and chose which one to manage. 
+
+Yes, you can manage more than one account on Spredfast. It is easy to switch from one account to another using the top bar of the website. You can drop down to the different accounts and chose which one to manage. 
 Does Spredfast cost money?
+
 Yes. Rates can range varying on what services you use from them.
