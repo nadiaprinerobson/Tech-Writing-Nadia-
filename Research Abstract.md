@@ -21,5 +21,4 @@ GMO Labeling: The Great Debate: 3 in 4 Americans support GMO labeling https://se
 FOOD FIGHT! The debate over labeling genetically modified food is more about the right to know than public safety https://search.proquest.com/docview/1552515176/E6A07C08993D4E56PQ/15?accountid=130237 (GMOs, policy, Right to Know, lobbying)
 
 Research Abstract
-
 My white paper will be covering the current issue of GMO labeling. My paper will have a persusuve element for being against labeling GMO labeling. However, I will still want to explore both side and break down the history, two sideded arguments, and current policy suggestions. My rearch will themn lead to the conclusion. The call to action will be to think again when taking GMO labeling into consideration. My sources above will help me find the research needed to find the current state and history of GMO labeling policy. I will also be able to find information on the view points of both sides of the argument. 
