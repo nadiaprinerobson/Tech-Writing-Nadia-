@@ -42,3 +42,4 @@ Yes, you can manage more than one account on Spredfast. It is easy to switch fro
 Does Spredfast cost money?
 
 Yes. Rates can range varying on what services you use from them.
+ 
